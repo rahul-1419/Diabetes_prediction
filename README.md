@@ -47,13 +47,6 @@ Submit to get a prediction (Diabetic / Non-Diabetic) along with probability (if 
 
 Use the model for batch inference by loading best_logistic_regression_model.pkl in your own scripts.
 
-## Model Performance
-
-| Model               | Accuracy | ROC-AUC | Notes                               |
-| ------------------- | -------- | ------- | ----------------------------------- |
-| Logistic Regression | XX%      | X.XX    | Chosen model for deployment         |
-| Random Forest       | XX%      | X.XX    | Higher variance but slightly better |
-
 
 <img width="640" height="320" alt="c3a2c9ce-cbc6-4c47-9c29-7dfc4c97c13e" src="https://github.com/user-attachments/assets/30799135-5599-4047-80ca-bab0a9fadd43" />
 
