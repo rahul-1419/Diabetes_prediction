@@ -139,46 +139,6 @@ Confusion Matrix:<br>
 
  ## Hyperparameter Tuning and Model Evaluation
 
- ===== Logistic Regression =====<br>
-Best Params    : {'clf__C': 0.1, 'clf__solver': 'liblinear'}<br>
-Train Accuracy : 0.778<br>
-Test Accuracy  : 0.748<br>
-MSE            : 0.252<br>
-Fit Status     : Good Fit<br>
-Confusion Matrix:<br>
-[[138  30]<br>
- [ 34  52]]<br>
-
-===== Decision Tree =====
-Best Params    : {'clf__max_depth': 5, 'clf__min_samples_split': 2}<br>
-Train Accuracy : 0.839<br>
-Test Accuracy  : 0.752<br>
-MSE            : 0.248<br>
-Fit Status     : Good Fit<br>
-Confusion Matrix:<br>
-[[139  29]<br>
- [ 34  52]]<br>
-
-===== SVM =====
-Best Params    : {'clf__C': 0.1, 'clf__gamma': 'scale', 'clf__kernel': 'linear'}<br>
-Train Accuracy : 0.782<br>
-Test Accuracy  : 0.760<br>
-MSE            : 0.240<br>
-Fit Status     : Good Fit<br>
-Confusion Matrix:<br>
-[[141  27]<br>
- [ 34  52]<br>]
-
-===== KNN ===== <br>
-Best Params    : {'clf__n_neighbors': 9, 'clf__weights': 'distance'}<br>
-Train Accuracy : 1.000<br>
-Test Accuracy  : 0.713<br>
-MSE            : 0.287<br>
-Fit Status     : Overfitting<br>
-Confusion Matrix:<br>
-[[134  34]<br>
- [ 39  47]]<br>
-
  **Compare all Models**
 
 <img width="989" height="590" alt="output_2" src="https://github.com/user-attachments/assets/3fb832a5-b993-4708-8f78-addcca6d4fbd" />
