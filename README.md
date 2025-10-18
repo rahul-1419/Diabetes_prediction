@@ -1,5 +1,8 @@
 # Diabetes Prediction 🩺
 
+<img width="640" height="320" alt="c3a2c9ce-cbc6-4c47-9c29-7dfc4c97c13e" src="https://github.com/user-attachments/assets/30799135-5599-4047-80ca-bab0a9fadd43" />
+
+
 ## Project Overview  
 This is an end-to-end machine learning project that builds a predictive model to determine whether a person has diabetes based on health metrics. The project covers data preprocessing, exploratory data analysis, model training, evaluation, and deployment.
 
